@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/ewrefads/Advent of Code/2015Day10/2015Day10/2015Day10.csproj",
+      "projectUniqueName": "/home/ewrefads/Advent-of-Code-Solutions/2015Day10/2015Day10/2015Day10.csproj",
       "projectName": "2015Day10",
-      "projectPath": "/home/ewrefads/Advent of Code/2015Day10/2015Day10/2015Day10.csproj",
+      "projectPath": "/home/ewrefads/Advent-of-Code-Solutions/2015Day10/2015Day10/2015Day10.csproj",
       "packagesPath": "/home/ewrefads/.nuget/packages/",
-      "outputPath": "/home/ewrefads/Advent of Code/2015Day10/2015Day10/obj/",
+      "outputPath": "/home/ewrefads/Advent-of-Code-Solutions/2015Day10/2015Day10/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/ewrefads/.nuget/NuGet/NuGet.Config"

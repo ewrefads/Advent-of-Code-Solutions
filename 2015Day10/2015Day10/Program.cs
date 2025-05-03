@@ -1,13 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
-string input = "insert input here";
+string input = "1321131112";
 string inputWord = input;
+File.WriteAllText("test.txt", inputWord.Length.ToString());
 for(int i = 0; i < 50; i++)
 {
-    Console.WriteLine("iteration " + i + " length: " + inputWord.Length);
     string tempWord = "";
     string substring = "";
     for(int j = 0; j < inputWord.Length; j++)
     {
+        float percentage = (1.0f - ((float)j / (float)inputWord.Length)) * 100;
+        Console.WriteLine("iteration " + i + " remaining numbers: " + (inputWord.Length - j) + " " + percentage);
         if(substring == "" || substring[0] == inputWord[j])
         {
             substring += inputWord[j];
@@ -64,4 +66,5 @@ string LookAndSay(string input, int remainingIterations)
     }
 }
 Console.WriteLine(inputWord.Length);
+File.WriteAllText("result.txt", inputWord.Length.ToString());
 //Console.WriteLine(LookAndSay(input, 40).Length);

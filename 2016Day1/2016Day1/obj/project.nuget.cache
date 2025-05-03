@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ymoMcCI/QeENZJM9XAfFAHLb5fZcgqKnBqX/z2EQwkwBQZ2MM4fO1kvt1NMbDoOZ5i1w14gD+Jd8NyOyLK2D0Q==",
+  "dgSpecHash": "pv/Pr7EXzpBKjBE+lojJ0wNbGELkR4XGTYHHgyDZUJtoVFmsA3exZ1BBFqDJZYiXZ3ZDEbJKZ5P3PL5EBnDSKA==",
   "success": true,
-  "projectFilePath": "/home/ewrefads/Advent of Code/2016Day1/2016Day1/2016Day1.csproj",
+  "projectFilePath": "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/2016Day1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
