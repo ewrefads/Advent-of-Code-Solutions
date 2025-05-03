@@ -1,0 +1,15 @@
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/bin/Debug/net8.0/2016Day3
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/bin/Debug/net8.0/2016Day3.deps.json
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/bin/Debug/net8.0/2016Day3.runtimeconfig.json
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/bin/Debug/net8.0/2016Day3.dll
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/bin/Debug/net8.0/2016Day3.pdb
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.GeneratedMSBuildEditorConfig.editorconfig
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.AssemblyInfoInputs.cache
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.AssemblyInfo.cs
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.csproj.CoreCompileInputs.cache
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.sourcelink.json
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.dll
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/refint/2016Day3.dll
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.pdb
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/2016Day3.genruntimeconfig.cache
+/home/ewrefads/Advent-of-Code-Solutions/2016Day3/2016Day3/obj/Debug/net8.0/ref/2016Day3.dll
