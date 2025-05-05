@@ -2,7 +2,9 @@
 using System.Text;
 
 string[] input =
-{"insert input here"};
+{
+    "insert input here"
+};
 int sectorIdSum = 0;
 Dictionary<string, int>validRooms = new Dictionary<string, int>();
 for(int i = 0; i < input.Length; i++)
@@ -23,7 +25,6 @@ for(int i = 0; i < input.Length; i++)
         }
         else if(letter == '[')
         {
-            Console.WriteLine("beginning checksum");
             endOfLetters = true;
         }
         else if(endOfLetters && letter != ']')
@@ -238,9 +239,8 @@ foreach(string room in validRooms.Keys)
             decryptedWords.Add(word);
         }
     }
-    for(int j = 0; j < decryptedWords.Count; j++)
+    if(decryptedWords.Contains("northpole"))
     {
-        Console.Write(decryptedWords[j] + " ");
+        Console.WriteLine(validRooms[room]);
     }
-    Console.WriteLine();
 }

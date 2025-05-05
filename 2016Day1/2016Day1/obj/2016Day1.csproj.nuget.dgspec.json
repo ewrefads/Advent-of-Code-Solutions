@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/2016Day1.csproj": {}
+    "/home/ewrefads/Advent of Code/2016Day1/2016Day1/2016Day1.csproj": {}
   },
   "projects": {
-    "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/2016Day1.csproj": {
+    "/home/ewrefads/Advent of Code/2016Day1/2016Day1/2016Day1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/2016Day1.csproj",
+        "projectUniqueName": "/home/ewrefads/Advent of Code/2016Day1/2016Day1/2016Day1.csproj",
         "projectName": "2016Day1",
-        "projectPath": "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/2016Day1.csproj",
+        "projectPath": "/home/ewrefads/Advent of Code/2016Day1/2016Day1/2016Day1.csproj",
         "packagesPath": "/home/ewrefads/.nuget/packages/",
-        "outputPath": "/home/ewrefads/Advent-of-Code-Solutions/2016Day1/2016Day1/obj/",
+        "outputPath": "/home/ewrefads/Advent of Code/2016Day1/2016Day1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/ewrefads/.nuget/NuGet/NuGet.Config"
