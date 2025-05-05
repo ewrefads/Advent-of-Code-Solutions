@@ -1,0 +1,15 @@
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/bin/Debug/net8.0/2016Day9
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/bin/Debug/net8.0/2016Day9.deps.json
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/bin/Debug/net8.0/2016Day9.runtimeconfig.json
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/bin/Debug/net8.0/2016Day9.dll
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/bin/Debug/net8.0/2016Day9.pdb
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.GeneratedMSBuildEditorConfig.editorconfig
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.AssemblyInfoInputs.cache
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.AssemblyInfo.cs
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.csproj.CoreCompileInputs.cache
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.sourcelink.json
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.dll
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/refint/2016Day9.dll
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.pdb
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/2016Day9.genruntimeconfig.cache
+/home/ewrefads/Advent of Code/2016Day9/2016Day9/obj/Debug/net8.0/ref/2016Day9.dll
